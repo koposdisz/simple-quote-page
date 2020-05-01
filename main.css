@@ -1,0 +1,18 @@
+body {margin: 0;
+    padding: 0;
+}
+h1, p {
+    text-align: center;
+    font-size: 15px;
+    font-family:sans-serif;
+    position: relative;
+    top: -600px;
+    margin: auto;
+}
+img {width:100%;
+    height: auto; 
+}
+p {color: gray;
+   font-size: 10px;
+   font-style: italic;
+   }
